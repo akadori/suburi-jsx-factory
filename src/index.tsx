@@ -1,3 +1,1 @@
-import {jsxFactory} from './jsxFactory'
-
-const div = <div>Hello JSX!</div>;
+const div = () => <div>Hello JSX!<div>Hello JSX!</div></div>;
